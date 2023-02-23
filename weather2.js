@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const APIKey = "a0aca8a89948154a4182dcecc780b513";
+const APIKey = "a3021c38bca923186523bf377c1d69f1";
 
 export default {
   searchTerms: function(query) {
