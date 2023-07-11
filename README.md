@@ -26,6 +26,7 @@ The 5-days weather forecast also displays below the current weather conditions s
 In pertinence to local storage, the previous search city is displayed to the user on the left side of the page. The user is also able to clear the search history by pressing the clear history button. 
 
 ## Deployed site
-[Click Here](https://weather-dashboard-silk-seven.vercel.app)
+<a href="https://weather-dashboard-silk-seven.vercel.app" target="_blank">Click Here</a>
+
 
 
