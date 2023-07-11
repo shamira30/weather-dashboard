@@ -28,3 +28,4 @@ In pertinence to local storage, the previous search city is displayed to the use
 ## Deployed site
 
 
+
